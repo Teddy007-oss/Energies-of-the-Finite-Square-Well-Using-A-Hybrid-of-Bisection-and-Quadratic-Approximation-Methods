@@ -1,7 +1,7 @@
 ! Author Emmanuel Osei Boakye 
 ! Date : 20th May 2024 
 ! University Of Ghana Department of Physics
-! this program helps us plot a graph for the energy transcendental equations to see where the roots lie.
+! this program helps us plot a graph for the energy transcendental equations to see where the roots lie
 
 
 	program graphing
