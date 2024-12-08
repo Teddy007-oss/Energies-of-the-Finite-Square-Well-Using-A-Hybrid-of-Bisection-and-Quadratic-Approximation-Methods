@@ -3,7 +3,7 @@
 !Name : Emmnanuel Osei Boakye
 !Date : May 23rd 2024
 ! Department of Physics university of ghana
-! this script contains codes the evaluates the wave function at points of x to be used to plot the wave functions
+! this script contains codes the evaluates the wave function at points of x to be used to plot the wave functions for even states
 
 	program evensolution
 		implicit none
