@@ -1,6 +1,6 @@
 ! Author  Emmanuel Osei Boakye
 ! Date    Friday 26 April 2024
-! This program finds the root of a given function by implementing the quadratic approximation methods........
+! This program finds the root of a given function by implementing the quadratic approximation methods......
 
 program quadraticapproximation
 implicit none
