@@ -1,7 +1,7 @@
 
 ! Author Emmanuel Osei Boakye
 ! Date 3rd May 2024 Friday
-! A script the execute the hybrid of the bisection and the quadratic approximation method in finding the root f an equation.
+! A script the execute the hybrid of the bisection and the quadratic approximation method in finding the root f an equation
 
 program hybrid
 	implicit none
